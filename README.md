@@ -1,7 +1,7 @@
 # Music-Recommendation-System
 
-![GitHub](https://img.shields.io/github/license/your-username/your-repo-name)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/your-repo-name)
+![GitHub](https://img.shields.io/github/license/ramgovind12/Music-Recommendation-System)
+![GitHub last commit](https://img.shields.io/github/last-commit/ramgovind12/Music-Recommendation-System)
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-0.88.0-green)
 ![Dataset](https://img.shields.io/badge/Dataset-Spotify-orange)
@@ -12,11 +12,11 @@ Welcome to the Music Recommendation System project! This system is designed to p
 
 ## Algorithm
 
-We employ collaborative filtering, a popular recommendation algorithm, to suggest songs. Collaborative filtering analyzes user behavior, such as song plays and likes, to identify patterns and recommend songs that other users with similar tastes have enjoyed. This algorithm is effective in providing personalized recommendations.
+Collaborative filtering, a popular recommendation algorithm is employed to suggest songs. Collaborative filtering analyzes user behavior, such as song plays and likes, to identify patterns and recommend songs that other users with similar tastes have enjoyed. This algorithm is effective in providing personalized recommendations.
 
 ## Dataset
 
-Our recommendation system is powered by the Spotify Dataset. This rich dataset includes a vast collection of songs, artist information, and user interactions. By leveraging this data, we can offer recommendations that align with your musical preferences.
+Spotify Million Song Data: https://www.kaggle.com/datasets/notshrirang/spotify-million-song-dataset
 
 ## Tech Stack
 
@@ -24,7 +24,6 @@ Our recommendation system is powered by the Spotify Dataset. This rich dataset i
 - Streamlit: A user-friendly web app framework for creating interactive and visually appealing interfaces.
 - Pandas: Data manipulation library for handling and processing datasets.
 - Scikit-learn: A machine learning library used for implementing collaborative filtering.
-- GitHub: The platform hosting this project's repository and codebase.
 
 ## Usage
 
@@ -42,4 +41,4 @@ To get started with the Music Recommendation System:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/ramgovind12/Music-Recommendation-System.git
