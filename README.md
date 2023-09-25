@@ -1,7 +1,5 @@
 # Music-Recommendation-System
 
-![GitHub](https://img.shields.io/github/license/ramgovind12/Music-Recommendation-System)
-![GitHub last commit](https://img.shields.io/github/last-commit/ramgovind12/Music-Recommendation-System)
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-0.88.0-green)
 ![Dataset](https://img.shields.io/badge/Dataset-Spotify-orange)
